@@ -17,4 +17,3 @@ join = (input_array...) ->
   result
 
 #console.log(join x...)
-

@@ -5,3 +5,4 @@
 # Description | The hex method partitions the plane with hexagons.
 # ------------------------------------------------------------------------------
 hex = () ->
+

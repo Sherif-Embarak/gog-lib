@@ -5,3 +5,4 @@
 # Description | The quantile methods partition by computing sample quantiles (such as quartiles, deciles, or percentiles).
 # ------------------------------------------------------------------------------
 quantile = () ->
+
